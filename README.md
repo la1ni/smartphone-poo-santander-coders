@@ -3,11 +3,11 @@
 </div>
 <div align="center">
  
-  <h1 style="font-size: 20px;"><b>PROJETO: SMARTPHONE</b></h1>
+  <h1 style="font-size: 18px;"><b>Projeto: SMARTPHONE</b></h1>
 </div>
 
 <div align="center">
-**Módulo: Programação Orientada a Objetos I**<br>Projeto desenvolvido pelo grupo 5 da turma 1173 do programa **Santander Coders** 2024.1 em parceria com a **Ada Tech**
+<b>Módulo: Programação Orientada a Objetos I</b><br>Projeto desenvolvido pelo grupo 5 da turma 1173 do programa <b>Santander Coders</b> 2024.1 em parceria com a <b>Ada Tech</b>
 </div>
 
 <h1 align="center">
@@ -19,6 +19,7 @@
 
 ## Objetivo do Projeto
 Este projeto é uma evolução do trabalho desenvolvido no módulo de Lógica de Programação. No projeto inicial, foi criado um sistema de agenda de contatos que permitia ao usuário adicionar, remover, buscar e listar contatos.
+
 O desafio do projeto atual foi expandir a aplicação da agenda, adicionando novas funcionalidades. A proposta do grupo foi desenvolver um sistema de smartphone que ofereça ao usuário as seguintes funcionalidades:
 1. Agenda de contatos
 2. Bloco de notas
